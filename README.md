@@ -44,8 +44,8 @@ Installasi
 
 
 Menggunakan Terminal OpenWrt / TTYD / PuTTY
+Copy Script Di Bawah Dan Paste Di Terminal
 ```bash
-# Copy Script Di Bawah Dan Paste Di Terminal
 bash -c "$(wget -qO - 'https://raw.githubusercontent.com/rtaserver/RakitanManager/dev/install.sh')"
 ```
 
